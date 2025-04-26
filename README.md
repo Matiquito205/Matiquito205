@@ -83,13 +83,13 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathias205&show_icons=true&theme=dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="41.1%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matiquito205&show_icons=true&theme=dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="41.1%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathias205&theme=dark&hide_border=false&border_radius=10&fire=DD2727" width="43%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matiquito205&theme=dark&hide_border=false&border_radius=10&fire=DD2727" width="43%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias205&layout=compact&theme=dark&langs_count=10&hide_border=false&border_radius=10&random=12345" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiquito205&layout=compact&theme=dark&langs_count=10&hide_border=false&border_radius=10&random=12345" width="40%" />
 </p>
 
 
@@ -101,7 +101,7 @@
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Mathias205/count.svg" />
+  <img src="https://profile-counter.glitch.me/Matiquito205/count.svg" />
 </p>
 
 <p align="center">
