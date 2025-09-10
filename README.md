@@ -101,7 +101,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=👀%20Profile%20Views&color=blue&style=for-the-badge" alt="Matiquito205" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Matiquito205/readme" alt="Profile Views"/>
 </p>
 
 
