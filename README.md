@@ -105,11 +105,12 @@
 </p>
 
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMatiquito205%2Fgithub&query=value&style=for-the-badge&label=👀%20Profile%20Views&color=blue" alt="Profile Views" />
+  <img src="assets/tengen-toppa.gif" width="400" alt="Tengen Toppa Gurren Lagann" />
 </p>
+
+
+
 
 
 
