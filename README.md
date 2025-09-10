@@ -103,7 +103,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Matiquito205/Matiquito205/main/assets/gurren.gif" width="400" alt="Tengen Toppa Gurren Lagann" />
+  <img src="https://raw.githubusercontent.com/Matiquito205/Matiquito205/gurren.gif" width="400" alt="Tengen Toppa Gurren Lagann" />
 </p>
 
 
