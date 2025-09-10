@@ -106,7 +106,7 @@
 
 
 <p align="center">
-  <img src="assets/tengen-toppa.gif" width="400" alt="Tengen Toppa Gurren Lagann" />
+  <img src="https://media.tenor.com/8GqSb7TCvW0AAAAC/gurren-lagann-tengen-toppa.gif" width="400" alt="Tengen Toppa Gurren Lagann" />
 </p>
 
 
