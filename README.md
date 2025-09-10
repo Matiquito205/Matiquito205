@@ -104,12 +104,10 @@
 <p align="center">
   <img src="https://github.com/Matiquito205/Matiquito205/blob/main/assets/bleach.gif?raw=true" width="400" alt="Bleach GIF" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Matiquito205/readme" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=👁️%20Profile%20Views&color=purple&style=flat-square" />
 </p>
-
-
-
 
 
 
