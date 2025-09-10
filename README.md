@@ -108,8 +108,9 @@
 
 
 <p align="center">
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif" width="300" height="200" alt="Today" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMatiquito205%2Fgithub&query=value&style=for-the-badge&label=👀%20Profile%20Views&color=blue" alt="Profile Views" />
 </p>
+
 
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
