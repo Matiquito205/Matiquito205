@@ -100,13 +100,13 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRmdWxhdWdtNXVnaGZ1a2E1dTBxanphN3g4YmZ3bDRjZXQ0Zm5tMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FrajIka5H3PpVVO3XS/giphy.gif" width="25"><b> Visualizations</b>
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=Profile%20views&color=blue&style=for-the-badge" alt="Matiquito205" />
+</p>
+
 
 <p align="center">
   <img src="https://github.com/Matiquito205/Matiquito205/blob/main/assets/bleach.gif?raw=true" width="400" alt="Bleach GIF" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=Profile%20views&color=blue&style=for-the-badge" alt="Matiquito205" />
 </p>
 
 
