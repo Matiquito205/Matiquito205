@@ -101,7 +101,7 @@
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Matiquito205/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=Profile%20views&color=blue&style=for-the-badge" alt="Matiquito205" />
 </p>
 
 <p align="center">
