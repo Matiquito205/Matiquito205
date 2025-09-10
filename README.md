@@ -101,8 +101,11 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=Profile%20views&color=blue&style=for-the-badge" alt="Matiquito205" />
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Matiquito205/&title=Profile%20Views&edge_flat=false" alt="Hits"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/berserk-guts-red-glowing-eye-gif-desktop-wallpaper-preview.gif" width="300" height="200" alt="Today" />
