@@ -106,8 +106,12 @@
 
 
 <p align="center">
-  <img src="https://github.com/Matiquito205/Matiquito205/blob/main/assets/bleach.gif?raw=true" width="400" alt="Bleach GIF" />
+  <img src="https://github.com/Matiquito205/Matiquito205/blob/main/assets/bleach.gif?raw=true" 
+       width="400" 
+       alt="Bleach GIF" 
+       style="border-radius:15px;" />
 </p>
+
 
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
