@@ -104,6 +104,9 @@
 <p align="center">
   <img src="https://github.com/Matiquito205/Matiquito205/blob/main/assets/bleach.gif?raw=true" width="400" alt="Bleach GIF" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=red&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Matiquito205/readme" alt="Profile views" />
+</p>
 
 
 
