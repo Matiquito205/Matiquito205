@@ -106,9 +106,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=👁️%20Profile%20Views&color=purple&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Matiquito205&label=Profile%20views&color=blue&style=for-the-badge" alt="Matiquito205" />
 </p>
-
 
 
 <p align="center">"ᴀ ɢᴏᴏᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡᴏʀᴋꜱ ᴡɪᴛʜ ᴅɪꜱᴄɪꜰᴌɪɴᴇ ᴀɴᴅ ᴄᴏɴꜱɪꜱᴛᴇɴᴄʏ ꜰʀᴏᴍ ᴅᴀʏ ᴏɴᴇ."</p>
